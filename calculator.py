@@ -1,3 +1,5 @@
+#this is a program for git assignment
+
 print ("\t\tHello")
 print ("\tThis code is for our Assignment 5 of LP1. ")
 
