@@ -1,7 +1,7 @@
-#this is a program for git assignment
+#this is a program for our git assignment.
 
-print ("\t\tHello Everyone")
-print ("\tThis code is for our Assignment 5 of LP1. ")
+print ("\t\t\tHello Everyone")
+print ("\nThis code is for our Assignment 5 of LP1. ")
 
 def add(a, b):
     print ("Your answer is:")
