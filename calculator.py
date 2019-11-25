@@ -1,6 +1,6 @@
 #this is a program for git assignment
 
-print ("\t\tHello Everyone")
+print ("\t\tHello Everyone.")
 print ("\tThis code is for our Assignment 5 of LP1. ")
 
 def add(a, b):
